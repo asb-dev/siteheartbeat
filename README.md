@@ -16,3 +16,4 @@ to receive chat id value.
 5. Insert chat id value into script.
 6. You're awesome and the script is ready to use.
 7. Check any url with script: ./siteheartbeat.sh -u https://www.google.com
+8. You can run this check manually or add it in your crontab to check if site alive by schedule. 
